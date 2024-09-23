@@ -1,0 +1,4 @@
+name: bit
+version: '1.0'
+main: gg.dropbear.bit.Main
+api-version: '1.20'
